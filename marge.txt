@@ -1,0 +1,1 @@
+pudimos subir la carpeta desde el ordenador porque en github todas las carpetas vacías no tienen  la extensión que necesita github para subirla 
